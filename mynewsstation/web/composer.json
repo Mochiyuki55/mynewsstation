@@ -1,0 +1,6 @@
+{
+    "require": {
+    "abraham/twitteroauth": "^2.0",
+    "composer/ca-bundle": "^1.2"
+    }
+}
